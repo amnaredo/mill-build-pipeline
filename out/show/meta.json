@@ -4,9 +4,10 @@
             
         },
         "watched": [
-            "ref:83f9d6e0:/mnt/c/Users/Alejandro/haoyi/mill-build-pipeline/src"
+            "ref:6167b8a2:/mnt/c/Users/Alejandro/haoyi/mill-build-pipeline/src",
+            "ref:ad6dd1c3:/mnt/c/Users/Alejandro/haoyi/mill-build-pipeline/resources"
         ]
     },
-    "valueHash": -1888708314,
-    "inputsHash": -1675247053
+    "valueHash": -784702112,
+    "inputsHash": 1575138884
 }
